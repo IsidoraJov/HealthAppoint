@@ -23,5 +23,6 @@ HealthAppoint is a comprehensive patient management system designed for healthca
 - **Deployment**: Heroku
 
   ## Data Model
-  
-![image](https://github.com/user-attachments/assets/843c02a2-95e9-40bc-b232-fa2fd77a66f1)
+  ![image](https://github.com/user-attachments/assets/5dc37c39-b383-447a-9a01-52d6cada2e89)
+
+
